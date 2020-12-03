@@ -56,4 +56,4 @@ Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, le
 
 ---
 
-<h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/MarcosNSouza87" target="_blank">Marcos Nunes</a> </h4>
+<h4 align="center"> Desenvolvido por <a href="https://github.com/MarcosNSouza87" target="_blank">Marcos Nunes</a> </h4>
