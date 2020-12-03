@@ -1,16 +1,16 @@
 <!-- então bora codar! -->
 
 <h1 align="center">
-    <img alt="" title="" src="imgs/logo.svg">
+    <img alt="" title="" src="github/logo.svg">
 </h1>
 
 <h2 align="center"> Aplicação para conectar ONGs e outras instituições a pessoas que tem disponibilidade para ajudar </h2>
 
-<h3 align="center"> Criada com a stack <img src="imgs/react.png" alt="react" height="18"> React, <img src="imgs/react-native.png" alt="react-native" height="18"> React Native, <img src="imgs/node.png" alt="node" height="18"> Node e <img src="imgs/sqlite.png" alt="node" height="18"> SQLite </h3>
+<h3 align="center"> Criada com a stack <img src="github/react.png" alt="react" height="18"> React, <img src="github/react-native.png" alt="react-native" height="18"> React Native, <img src="github/node.png" alt="node" height="18"> Node e <img src="github/sqlite.png" alt="node" height="18"> SQLite </h3>
 
-<p align="center"> <img src="imgs/heroes.png" alt="heroes" height="250"> </p>
+<p align="center"> <img src="github/heroes.png" alt="heroes" height="250"> </p>
 
-<p align="center"> Usando o poder de uma stack poderosa, que utiliza de uma única linguagem popular e moderna, o <img src="imgs/js.png" height="18" alt="javascript"> JavaScript. <br> Produtividade e performance de forma enxuta. </p>
+<p align="center"> Usando o poder de uma stack poderosa, que utiliza de uma única linguagem popular e moderna, o <img src="github/js.png" height="18" alt="javascript"> JavaScript. <br> Produtividade e performance de forma enxuta. </p>
 
 ---
 
@@ -18,7 +18,7 @@ A 11ª edição da Semana OmniStack, ocorrida entre 23/03 e 27/03, trouxe como p
 
 Em uma semana foi desenvolvida uma aplicação do zero, dominando o backend, frontend e o mobile com uma única linguagem e uma única biblioteca de interfaces.
 
-[Layout](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1) da aplicação no <img src="imgs/figma.png" alt="figma" height="20"> Figma.
+[Layout](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=0%3A1) da aplicação no <img src="github/figma.png" alt="figma" height="20"> Figma.
 
 ## Para rodar a aplicação
 
@@ -33,19 +33,17 @@ Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, le
 ## Telas
 
 <p align="center">
-    <img alt="" title="" src="imgs/print1.png">
-    <img alt="" title="" src="imgs/print2.png">
-    <img alt="" title="" src="imgs/print3.png">
-    <img alt="" title="" src="imgs/print4.png">
-    <img alt="" title="" src="imgs/print5.png">
-    <img alt="" title="" src="imgs/print6.png">
-    <img alt="" title="" src="imgs/print7.png">
-    <img alt="" title="" src="imgs/print8.png">
-    <img alt="" title="" src="imgs/print9.png">
-    <img alt="" title="" src="imgs/print-insomnia.png">
+    <img alt="" title="" src="github/print1.png">
+    <img alt="" title="" src="github/print2.png">
+    <img alt="" title="" src="github/print3.png">
+    <img alt="" title="" src="github/print4.png">
+    <img alt="" title="" src="github/print5.png">
+    <img alt="" title="" src="github/print6.png">
+    <img alt="" title="" src="github/print7.png">
+    <img alt="" title="" src="github/print8.png">
+    <img alt="" title="" src="github/print9.png">
+    <img alt="" title="" src="github/print-insomnia.png">
 </p>
-
-Veja também esse [vídeo](https://youtu.be/UygqW2eBJJA) com a demonstração das versões web e mobile rodando localmente.
 
 ---
 
@@ -58,4 +56,4 @@ Veja também esse [vídeo](https://youtu.be/UygqW2eBJJA) com a demonstração da
 
 ---
 
-<h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/christyanbrayan" target="_blank">christyanbrayan</a> </h4>
+<h4 align="center"> <em>&lt;/&gt;</em> by <a href="https://github.com/MarcosNSouza87" target="_blank">Marcos Nunes</a> </h4>
