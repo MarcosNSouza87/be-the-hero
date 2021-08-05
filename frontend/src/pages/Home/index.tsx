@@ -38,6 +38,9 @@ export default function HomePage() {
             <IconLogin />
             Não tenho cadastro
           </Link>
+          <br />
+          <br />
+          <p>v.1.0</p>
         </form>
       </section>
       <img src={heroesImg} alt="Heroes" />
