@@ -22,9 +22,9 @@ async function Ready(nomeTable: string, request: Request, response: Response) {
     listData = await connection(nomeTable).select("*");
   }
   if (listData !== undefined) {
-    return response.status(200).send(listData);
+    return listData;
   } else {
-    return response.status(500).end();
+    return 0;
   }
 }
 //update edit

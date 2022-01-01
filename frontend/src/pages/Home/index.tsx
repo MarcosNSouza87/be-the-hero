@@ -1,18 +1,33 @@
 import { useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useHistory } from "react-router-dom";
 
 import heroesImg from "../../assets/heroes.png";
 import IconLogin from "../../assets/IconLogin";
 import LogoImg from "../../assets/logo";
 import Button from "../../components/Button";
 import Input from "../../components/InputText";
+import api from "../../services/api";
 
 import { HomeContainer } from "./styles";
 
 export default function HomePage() {
   const [id, setId] = useState("");
+  const history = useHistory();
 
-  const handleLogin = () => {};
+  const handleLogin = async (e: any) => {
+    e.preventDefault();
+    try {
+      const response = await api.get("ong", { params: { id: id } });
+      console.log(response);
+      //  localStorage.setItem('ongId',id);
+      //  localStorage.setItem('ongName',response.data.name);
+
+      //  history.push('/profile');
+    } catch (err) {
+      alert("Falha no login, tente novamente.");
+    }
+  };
+
   return (
     <HomeContainer>
       <section className="form">
